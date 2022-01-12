@@ -1,0 +1,2 @@
+# zerotier_planet
+zerotier全自动安装planet脚本
